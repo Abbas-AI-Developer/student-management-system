@@ -1,0 +1,4 @@
+Git Commit
+git add .
+git commit -m "Create Student model"
+git push origin main
